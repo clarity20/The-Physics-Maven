@@ -19,11 +19,11 @@ I'll explain it to you kindly, hoping that I do not bore --
 I'll explain it to you kindly, hoping you I do not bore,
 Neither now nor evermore.
 
-[?] Things are taken for a ride when a force has been applied
-[?] Ever faster they will go wherever they will go
-And objects moving without force will never change their course
-So you can overcome inertia -- now I know you're thinking, "Whoa!"
-You can overcome inertia, and I know you're thinking, "Whoa!"
+"When a force has been applied an object's taken for a ride 
+[?] Ever faster it will go wherever it will go
+And something moving without force will never change its course
+So you can overcome inertia -- now I know you're thinking, 'Whoa!'
+You can overcome inertia, and I know you're thinking, 'Whoa!'
 Now hold on tight, 'cause here we go.
 
 For this one you must be smarter, for this second law is harder
@@ -31,9 +31,9 @@ And it's not so quickly evident to the naked eye.
 You must trust me when I tell you my experiments have value
 They have shown me when acceleration's low and when it's high
 Now I know when an acceleration's low and when it's high
-As my formulas imply.
+As my formulas imply."
 
-Newton said in exhortation, "Focus on acceleration!
+Then Newton said in exhortation, "Focus on acceleration!
 Is there not a way to find it? Are we left without a clue?
 When we've found unbalanced forces, have we used up our resources?
 Are we finished? Is there nothing that remains for us to do?
@@ -55,7 +55,7 @@ Aye, these complicated matters whose true knowledge I had lacked
 'Til from him I got the knack.
 
 Mr. Newton never flitting, still is sitting, still is sitting
-On the pallid bust of Rogers just above my classroom door.
+On the pallid bust of Euclid just above my classroom door.
 No more weepin', no more sobbin', no more VAST problems!
 And the light on Newton streaming throws his shadow on the floor
 And my kilograms of homework that lie scattered on the floor
